@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "compile": "hardhat compile",
-    "test": "hardhat test"
+    "test": "hardhat test",
+    "deploy:rayls": "hardhat run scripts/deploy.js --network rayls",
+    "test:vault:rayls": "hardhat run scripts/testLeveragedVault.js --network rayls"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +17,7 @@
     "hardhat": "^2.22.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.0.0"
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^17.2.3"
   }
 }
-

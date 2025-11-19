@@ -4,10 +4,7 @@ pragma solidity ^0.8.20;
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC4626.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-/**
- * @title ERC4626Vault
- * @dev Example vault implementing ERC4626 standard
- */
+
 contract ERC4626Vault is ERC4626 {
     constructor(
         ERC20 asset_,
