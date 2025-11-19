@@ -1,5 +1,16 @@
 # Track4626 — Leverage‑Optimized ERC‑4626 Vault Manager
 
+---
+
+## 🎥 Demo Video
+
+▶️ **Watch the full walkthrough:**  
+https://www.loom.com/share/b7f5e7545e3a4fd7bf05df1cc6d9b5d0
+
+> This video provides a clear preview of how Track4626 works end‑to‑end, including deposits, leverage loops, withdrawals, and risk controls.
+
+---
+
 Track4626 is an automated leverage engine built on top of the ERC‑4626 Tokenized Vault Standard. It enables users and institutions to deposit assets once and earn **leveraged yield** without manually performing recursive deposits, borrows, or rebalancing.
 
 ---
