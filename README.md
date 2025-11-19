@@ -7,7 +7,7 @@
 ▶️ **Watch the full walkthrough:**  
 https://www.loom.com/share/b7f5e7545e3a4fd7bf05df1cc6d9b5d0[]
 
-Track4626 contract on Rayls - (https://devnet-explorer.rayls.com/address/0xcc0a5F4744A6AedbA2571593f24699b06511811E)[https://devnet-explorer.rayls.com/address/0xcc0a5F4744A6AedbA2571593f24699b06511811E]
+Track4626 contract on Rayls - https://devnet-explorer.rayls.com/address/0xcc0a5F4744A6AedbA2571593f24699b06511811E
 > This video provides a clear preview of how Track4626 works end‑to‑end, including deposits, leverage loops, withdrawals, and risk controls.
 
 ---
