@@ -4,7 +4,7 @@ Track4626 is an automated leverage engine built on top of the ERC‑4626 Tokeniz
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 ### **1. User Deposits Asset**
 Users deposit ERC‑20 assets (stablecoins, staked assets, blue‑chips, etc.) into a Track4626 vault.
