@@ -2,10 +2,7 @@
 
 ---
 
-## 🎥 Demo Video
-
-
-> This video provides a clear preview of how Track4626 works end‑to‑end, including deposits, leverage loops, withdrawals, and risk controls.
+Vault deployed on Scroll - https://sepolia.scrollscan.com/address/0xf51C0e606Df4c5229Edfcda9493EF78fe3C3ff27
 
 ---
 
